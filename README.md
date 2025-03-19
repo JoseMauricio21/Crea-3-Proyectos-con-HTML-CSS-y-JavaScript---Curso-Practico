@@ -26,7 +26,7 @@ En el tercer proyecto, **José Mauricio Manjarrez Reyes** construyó una **landi
 ## 📺 **Curso en YouTube**
 El curso completo, con todos los detalles y explicaciones de los proyectos, está disponible en el canal de **freeCodeCamp en Español**. ¡Es una excelente oportunidad para aprender de manera estructurada y clara!
 
-👉 ## Video
+👉 ## **Video**
 [![Video de YouTube](https://img.youtube.com/vi/yZeXLvHP6LM/0.jpg)](https://www.youtube.com/watch?v=yZeXLvHP6LM)
 
 ## 👨‍💻 **Autor del Curso**
