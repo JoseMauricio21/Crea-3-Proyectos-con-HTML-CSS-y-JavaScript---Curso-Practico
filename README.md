@@ -35,9 +35,10 @@ El curso fue diseñado y presentado por **Jordan Alexander Cruz García**, un ex
 
 1. **Cloné el repositorio** utilizando el siguiente comando:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/JoseMauricio21/Crea-3-Proyectos-con-HTML-CSS-y-JavaScript---Curso-Practico.git
    
 Abrí los archivos en un editor de código como Visual Studio Code o cualquier editor preferido.
+
 Apliqué los conocimientos adquiridos a proyectos personales, lo que me ayudó a fortalecer la práctica y mejorar mis habilidades como desarrollador web.
 **📜 Licencia**
 Este proyecto se distribuye bajo la licencia MIT, permitiendo su uso, modificación y distribución de manera libre y abierta.
