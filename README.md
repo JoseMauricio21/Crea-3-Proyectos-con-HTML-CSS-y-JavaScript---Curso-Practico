@@ -31,14 +31,6 @@ El curso completo, con todos los detalles y explicaciones de los proyectos, est�
 ## 👨‍💻 **Autor del Curso**
 El curso fue diseñado y presentado por **Jordan Alexander Cruz García**, un experto en diseño de interfaces y desarrollo web que comparte su experiencia y conocimiento en el campo.
 
-**Redes Sociales del Autor:**
-- 🔴 [YouTube](https://www.youtube.com/@AlexCGDesign)
-- 🐦 [Twitter](https://twitter.com/alexcgdesign)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jordan-alexander-cruz-garcia)
-- 📸 [Instagram](https://www.instagram.com/alexcg_design)
-- 🐙 [GitHub](https://github.com/AlexCGDesign)
-- 📝 [Blog](https://www.alexcgdesign.com/blog)
-
 ## 🛠 **Cómo Usar Este Repositorio**
 
 1. **Cloné el repositorio** utilizando el siguiente comando:
